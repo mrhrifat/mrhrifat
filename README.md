@@ -39,17 +39,13 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/java-%23f0953b.svg?&style=for-the-badge&logo=java&logoColor=507e9c"/>
 
-
+<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 
 </p>
 
@@ -66,6 +62,10 @@ For later--
 <img src="https://img.shields.io/badge/mysql-%2342759c.svg?&style=for-the-badge&logo=mysql&logoColor=db8a35"/>
 
 <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" /> 
+
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 
@@ -92,10 +92,10 @@ For later--
 
 <p align="center">
     <a href="https://github.com/mrhrifat/facebook-signup-form">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=facebook-signup-form_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=facebook-signup-form&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
     </a>
     <a href="https://github.com/mrhrifat/fcc-personal-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=fcc-personal-portfolio_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
     </a>
 </p>
 
