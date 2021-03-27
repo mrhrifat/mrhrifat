@@ -3,7 +3,7 @@
 </p>
 -->
 <p align="center">
-<img alt="GIF" src="https://github.com/mrhrifat/mrhrifat/gifs/code.gif?raw=true" width="600" height="300" />
+<img alt="GIF" src="https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true" width="600" height="300" />
 </p>
 
 ### Assalamu Alaikum ! 👋
@@ -95,7 +95,7 @@ For later--
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=facebook-signup-form_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
     </a>
     <a href="https://github.com/mrhrifat/fcc-tribute-page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=fcc-tribute-page_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajnnnat&repo=fcc-tribute-page_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
     </a>
 </p>
 
