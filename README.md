@@ -3,7 +3,7 @@
 </p>
 -->
 <p align="center">
-<img alt="GIF" src="https://github.com/mrhrifat/mrhrifat/blob/main/gifs/code.gif?raw=true" width="600" height="300" />
+<img alt="GIF" src="https://github.com/ajannat/ajannat/blob/main/gifs/code.gif?raw=true" width="600" height="300" />
 </p>
 
 ### Assalamu Alaikum ! 👋
@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/java-%23f0953b.svg?&style=for-the-badge&logo=java&logoColor=507e9c"/>
+
 
 
 </p>
