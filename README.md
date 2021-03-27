@@ -3,7 +3,7 @@
 </p>
 -->
 <p align="center">
-<img alt="GIF" src="https://github.com/ajannat/ajannat/blob/main/gifs/code.gif?raw=true" width="600" height="300" />
+<img alt="GIF" src="https://github.com/mrhrifat/mrhrifat/gifs/code.gif?raw=true" width="600" height="300" />
 </p>
 
 ### Assalamu Alaikum ! 👋
@@ -83,7 +83,7 @@ For later--
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhrifat&show_icons=true&hide=html,css&theme=gotham&line_height=27&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhrifat&show_icons=true&hide=php,typescript&theme=gotham&line_height=27&hide_border=true">
 
 </p>
 
@@ -91,8 +91,8 @@ For later--
 ## **FEATURED PROJECTS -**
 
 <p align="center">
-    <a href="https://github.com/mrhrifat/facebook-signup-login-form">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=facebook-signup-login-form_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
+    <a href="https://github.com/mrhrifat/facebook-signup-form">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=facebook-signup-form_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
     </a>
     <a href="https://github.com/mrhrifat/fcc-tribute-page">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=fcc-tribute-page_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
