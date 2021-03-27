@@ -92,10 +92,10 @@ For later--
 
 <p align="center">
     <a href="https://github.com/mrhrifat/facebook-signup-login-form">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=git-cheatsheet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=facebook-signup-login-form_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
     </a>
     <a href="https://github.com/mrhrifat/fcc-tribute-page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=a-tiny-blockchain&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=fcc-tribute-page_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
     </a>
 </p>
 
