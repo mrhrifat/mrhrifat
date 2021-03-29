@@ -102,10 +102,10 @@ For later--
 
 <p align="center">
     <a href="https://github.com/mrhrifat/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
     </a>
-    <a href="https://github.com/mrhrifat/facebook-signup-form">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=facebook-signup-form&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
+    <a href="https://github.com/mrhrifat/blogger">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=blogger&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
     </a>
 </p>
 
