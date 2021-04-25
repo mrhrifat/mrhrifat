@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 🤔 ⚡ 📈 🔖
 -->
 
-- 🔭 Currently I'm working on Web Design
+- 🔭 Currently I'm working on Front End Development
 - 🌱 Currently learing JavaScript, ES6
-- 👯 Preparing myself to work on Front End Development
+- 👯 Preparing myself to work on Full Stack Development
 - 💬 Open to learn about Software Engineering
 - 📖 Currently reading some books on Islam
 
