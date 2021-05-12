@@ -95,7 +95,7 @@ For later--
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhrifat&show_icons=true&hide=php,typescript,css&theme=gotham&line_height=27&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhrifat&show_icons=true&hide=php,html,typescript,css&theme=gotham&line_height=27&hide_border=true">
 
 </p>
 
