@@ -9,7 +9,7 @@
 ### Assalamu Alaikum ! 👋
 
 <p align="justify">
-This is Rakibul Hassan Rifat from Bangladesh. I love programming & software developing . But I know simple level programming. For improvement myself & my skill, now I am learning web based software development. Beside I get prepared to be a competitive programmer and problem solver for being a successful Software Engineer.
+This is Rakibul Hassan Rifat from Bangladesh. For being a Software Engineer, I am tempted to work with web technologies. Currently, I am learning & developing web-based applications. I am trying to being a competitive problem solver with attractive logic in Hacker Rank, Leet Code, & Free Code Camp. Writing readable and reusable code are my first priorities.
 </p>
 
 <!--
