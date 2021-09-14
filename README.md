@@ -37,3 +37,12 @@ An enthusiastic programmer, working on Front End Development. I'm passionate abo
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=web-badge&theme=transparent'  width='300'/>
     </a>
 </p>
+
+## CODING STATS
+
+<p align = 'center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=transparent' width='350'/>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat&theme=transparent' width='350'>
+</p>
+
+##
