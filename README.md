@@ -26,3 +26,14 @@ An enthusiastic programmer, working on Front End Development. I'm passionate abo
         <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
     </a>
 </p>
+
+## FEATURED PROJECTS
+
+<p align='center'>
+    <a href='https://github.com/mrhrifat/holy-alquran'>
+        <img src='https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=holy-alquran&theme=transparent&hide=html' width='300'/>
+    </a>
+    <a href='https://github.com/mrhrifat/web-badge'>
+        <img src='https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=web-badge&theme=transparent'  width='300'/>
+    </a>
+</p>
