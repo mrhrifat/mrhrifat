@@ -41,8 +41,8 @@ An enthusiastic programmer, working on Front End Development. I'm passionate abo
 ## CODING STATS
 
 <p align = 'center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=transparent' width='450'/>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat&theme=transparent' width='450'>
+    <img src='https://github-readme-stats.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=transparent' width='400'/>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat&theme=transparent' width='400'>
 </p>
 
 ##
