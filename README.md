@@ -4,7 +4,7 @@
 
 ### Assalamu Alaikum !
 
-I'm an enthusiastic programmer, working on Front End Development with 2 years of experience. I'm passionate about coding to make people's daily life more easier.
+I'm an enthusiastic programmer, working on Front End Development with 2 years of experience. I'm passionate about coding to make people's daily life more easier.</br>
 I love to learning new things since I got acquainted with programming.
 
 - 🌱 Learing DSA & Advance Topics of Front End Technologies.
