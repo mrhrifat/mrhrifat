@@ -4,9 +4,11 @@
 
 ### Assalamu Alaikum !
 
-An enthusiastic programmer, working on Front End Development with 2 years of experience. I'm passionate about coding to make people's daily life more easier. Writing readable & reusable code are my first priorities.
+I'm an enthusiastic programmer, working on Front End Development with 2 years of experience. I'm passionate about coding to make people's daily life more easier.
+I love to learning new things since I got acquainted with programming.
 
-- 🌱 Learning DSA & Advance Topics of Front End Technologies.
+- 🌱 Learing DSA & Advance Topics of Front End Technologies.
+- 💻 Writing **Readable** & **Reusable** code are my first priorities.
 - 👨‍💻 Collaborator on [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository.
 - ⭐️ Nominate Me to [GitHub Stars](https://stars.github.com/nominate).
 
