@@ -9,7 +9,8 @@
 ### Assalamu Alaikum ! 👋
 
 <p align="justify">
-This is Rakibul Hassan Rifat from Bangladesh. For being a Software Engineer, I am tempted to work with web technologies. Currently, I am learning & developing web-based applications. I am trying to being a competitive problem solver with attractive logic in Hacker Rank, Leet Code, & Free Code Camp. Writing readable and reusable code are my first priorities.
+This is Rakibul Hassan Rifat from Bangladesh. To be a skilled and great Software Engineer, for now I am tempted to work with web technology. I will also work with other technologies near future. Currently, I am learning and developing web based applications. I am trying to be a competitive problem solver and solving problems in the Hacker Rank.
+I have been learning programming on my own since I got acquainted with programming.
 </p>
 
 <!--
