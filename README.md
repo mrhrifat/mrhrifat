@@ -135,7 +135,7 @@ https://github.com/Ileriayo/markdown-badges
 
 ## **PROFILE VISITORS -**
 <p align="center>
-    <a href="https://visitor-badge.glitch.me/badge?page_id=mrhrifat.mrhrifat">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=mrhrifat">
 </p>
 
 ## **REACH ME -**
