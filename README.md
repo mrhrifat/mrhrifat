@@ -142,10 +142,12 @@ https://github.com/Ileriayo/markdown-badges
 <!-- <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white"/>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=mrhrifat/"> -->
-
+<!-- 
 ![https://img.shields.io/badge/Profile Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white](https://visitor-badge.glitch.me/badge?page_id=mrhrifat)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=mrhrifat)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=mrhrifat) -->
+
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&color=55acb7&style=for-the-badge&logo=Github)
 
 </p>
 
