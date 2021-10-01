@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 📖 Currently reading some books on Islam
 
 
-## **LANGUAGES, FRAMEWORKS, TOOLS and OTHERS -**
+### **Languages, Frameworks, Tools & Others -**
 
 <p align="center">
 
@@ -106,7 +106,7 @@ https://github.com/Ileriayo/markdown-badges
 
  -->
 
-## **CODING STATS -**
+### **Coding Stats -**
 
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true">
@@ -116,7 +116,7 @@ https://github.com/Ileriayo/markdown-badges
 </p>
 
 
-## **FEATURED PROJECTS -**
+### **Featured Project -**
 
 <p align="center">
     <a href="https://github.com/mrhrifat/gaming">
@@ -128,7 +128,7 @@ https://github.com/Ileriayo/markdown-badges
 </p>
 
 
-## **REACH ME -**
+## **Reach Me -**
 
 <p align="center">
     <a href="https://www.linkedin.com/in/mrhrifat/" target="_blank">
