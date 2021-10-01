@@ -115,6 +115,12 @@ https://github.com/Ileriayo/markdown-badges
 
 </p>
 
+## **STREAK -**
+
+<p align = "center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat">
+
+</p>
 
 ## **FEATURED PROJECTS -**
 
@@ -127,6 +133,10 @@ https://github.com/Ileriayo/markdown-badges
     </a>
 </p>
 
+## **PROFILE VISITORS -**
+<p align="center>
+    <a href="https://visitor-badge.glitch.me/badge?page_id=mrhrifat.mrhrifat">
+</p>
 
 ## **REACH ME -**
 
