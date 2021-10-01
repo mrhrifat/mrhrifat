@@ -135,10 +135,13 @@ https://github.com/Ileriayo/markdown-badges
     </a>
 </p>
 
-<!-- ## **PROFILE VISITORS -**
+## **PROFILE VISITORS -**
 <p align="center>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=mrhrifat">
-</p> -->
+    
+    <a href="https://visitor-badge.glitch.me/badge?page_id=mrhrifat">
+        <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white">
+    </a>
+</p>
 
 ## **REACH ME -**
 
