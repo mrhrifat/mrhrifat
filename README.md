@@ -135,6 +135,24 @@ https://github.com/Ileriayo/markdown-badges
     </a>
 </p>
 
+
+## **REACH ME -**
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/mrhrifat/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <!-- <a href="https://www.facebook.com/" target="_blank">
+        <img src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
+    </a> -->
+
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrhrifat383759@gmail.com)
+
+    
+
+</p>
+
+
 ## **PROFILE VISITORS -**
 
 <p align="center">
@@ -149,15 +167,4 @@ https://github.com/Ileriayo/markdown-badges
 
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&color=55acb7&style=for-the-badge&logo=Github)
 
-</p>
-
-## **REACH ME -**
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/mrhrifat/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <!-- <a href="https://www.facebook.com/" target="_blank">
-        <img src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
-    </a> -->
 </p>
