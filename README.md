@@ -118,7 +118,7 @@ https://github.com/Ileriayo/markdown-badges
 ## **STREAK -**
 
 <p align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat&theme=gotham">
 
 </p>
 
@@ -133,10 +133,10 @@ https://github.com/Ileriayo/markdown-badges
     </a>
 </p>
 
-## **PROFILE VISITORS -**
+<!-- ## **PROFILE VISITORS -**
 <p align="center>
     <img src="https://visitor-badge.glitch.me/badge?page_id=mrhrifat">
-</p>
+</p> -->
 
 ## **REACH ME -**
 
