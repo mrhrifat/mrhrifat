@@ -6,7 +6,7 @@
 <img alt="GIF" src="https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true" width="600" height="300" />
 </p>
 
-### Assalamu Alaikum ! 👋
+### Assalamu Alaikum ! <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/>
 
 <p align="justify">
 This is Rakibul Hassan Rifat from Bangladesh. To be a skilled and great Software Engineer, for now I am tempted to work with web technology. I will also work with other technologies near future. Currently, I am learning and developing web based applications. I am trying to be a competitive problem solver and solving problems in the Hacker Rank.
