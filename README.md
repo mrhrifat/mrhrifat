@@ -137,9 +137,8 @@ https://github.com/Ileriayo/markdown-badges
 
 ## **PROFILE VISITORS -**
 <p align="center>
-    
     <a href="https://visitor-badge.glitch.me/badge?page_id=mrhrifat">
-        <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white">
+        <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white"/>
     </a>
 </p>
 
