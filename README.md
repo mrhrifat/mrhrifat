@@ -146,9 +146,8 @@ https://github.com/Ileriayo/markdown-badges
         <img src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
     </a> -->
 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrhrifat383759@gmail.com)
-
-    
+<!-- 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrhrifat383759@gmail.com) -->
 
 </p>
 
