@@ -166,7 +166,10 @@ https://github.com/Ileriayo/markdown-badges
 ![https://img.shields.io/badge/Profile Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white](https://visitor-badge.glitch.me/badge?page_id=mrhrifat)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=mrhrifat) -->
+<!-- 
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&color=55acb7&style=for-the-badge&logo=Github) -->
 
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&color=55acb7&style=for-the-badge&logo=Github)
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&color=55acb7&style=for-the-badge&logo=Github">
+
 
 </p>
