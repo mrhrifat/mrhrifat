@@ -127,7 +127,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 <p align = "center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat&theme=gotham&line_height=27&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrhrifat&theme=gotham&line_height=27&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrhrifat">
 
 </p>
 
