@@ -123,7 +123,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 </p>
 
-## **STREAK & WAKATIME -**
+## **STREAK -**
 
 <p align = "center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat&theme=gotham">
