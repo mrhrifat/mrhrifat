@@ -20,14 +20,15 @@ Here are some ideas to get you started:
 🤔 ⚡ 📈 🔖
 -->
 
-- 🔭 Currently I'm working on Front End Development
-- 🌱 Currently learing JavaScript, ES6, ReactJS
-- 👯 Preparing myself to work on Full Stack Development
-- 💬 Open to learn about Software Engineering
-- 📖 Currently reading some books on Islam
+- 💎 Currently I'm working on Front End Development
+- 🌱 Currently learing JavaScript, ReactJS & Redux
+- 🔍 Looking to contribute on Open Source Projects related to Software Development
+- 🎯 Preparing myself to work on Full Stack Development
+- 💬 Open to learn about Competitive Problem Solving
+- 📚 Currently reading some books on Islam 
 
 
-## **LANGUAGES, FRAMEWORKS, TOOLS & OTHERS -**
+### **LANGUAGES, FRAMEWORKS, TOOLS & OTHERS -**
 
 <p align="center">
 
@@ -112,7 +113,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
  -->
 
-## **CODING STATS -**
+### **CODING STATS -**
 
 <p align = "center">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true"> -->
@@ -123,7 +124,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 </p>
 
-## **STREAK -**
+### **STREAK -**
 
 <p align = "center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat&theme=gotham">
@@ -131,7 +132,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 </p>
 
-## **FEATURED PROJECTS -**
+### **FEATURED PROJECTS -**
 
 <p align="center">
     <a href="https://github.com/mrhrifat/gaming">
@@ -143,7 +144,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 </p>
 
 
-## **REACH ME -**
+### **REACH ME -**
 
 <p align="center">
     <a href="https://www.linkedin.com/in/mrhrifat/" target="_blank">
@@ -162,7 +163,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 </p>
 
 
-## **PROFILE VISITORS -**
+### **PROFILE VISITORS -**
 
 <p align="center">
 
