@@ -135,8 +135,8 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 ## **FEATURED PROJECTS -**
 
 <p align="center">
-    <a href="https://github.com/mrhrifat/gaming">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=gaming&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
+    <a href="https://github.com/mrhrifat/world-news">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=world-news&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
     </a>
     <a href="https://github.com/mrhrifat/jokes-zone">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=jokes-zone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
