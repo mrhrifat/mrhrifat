@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 📚 Currently reading some books on Islam 
 
 
-## **Languages, Frameworks, Tools & Others -**
+## **LANGUAGES, FRAMEWORKS, TOOLS & OTHERS -**
 
 <p align="center">
 
@@ -113,7 +113,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
  -->
 
-## **Coding Stats -**
+## **CODING STATS -**
 
 <p align = "center">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true"> -->
@@ -124,7 +124,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 </p>
 
-## **Steak & Contributions -**
+## **STREAK & CONTRIBUTIONS -**
 
 <p align = "center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat&theme=gotham">
@@ -132,7 +132,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 </p>
 
-## **Featured Projects -**
+## **FEATURED PROJECTS -**
 
 <p align="center">
     <a href="https://github.com/mrhrifat/world-news">
@@ -144,7 +144,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 </p>
 
 
-## **Reach Me -**
+## **REACH ME -**
 
 <p align="center">
     <a href="https://www.linkedin.com/in/mrhrifat/" target="_blank">
@@ -163,7 +163,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 </p>
 
 
-## **Profile Visitors -**
+## **PROFILE VISITORS -**
 
 <p align="center">
 
@@ -182,7 +182,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 </p>
 
-## **Support Me -**
+## **SUPPORT ME -**
 <!-- <p align='center'>
 If you like my Open Source Repositories & Project then, Nomiate me as a GitHub Stars
 <a href='https://stars.github.com/nominate/'>
