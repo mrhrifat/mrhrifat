@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 -->
 
 - 💎 Currently I'm working on Front End Development
-- 🌱 Currently learing JavaScript, ReactJS & Redux
+- 🌱 Currently learing JavaScript, ReactJS & Redux Toolkit
 - 🔍 Looking to contribute on Open Source Projects related to Software Development
 - 🎯 Preparing myself to work on Full Stack Development
 - 💬 Open to learn about Competitive Problem Solving
-- 📚 Currently reading some books on Islam 
+- 📚 Currently reading some books on Islam
 
 
 ## **LANGUAGES, FRAMEWORKS, TOOLS & OTHERS -**
