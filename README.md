@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 Currently learing JavaScript, ReactJS & ReduxJS
 - 🔍 Looking to contribute on Open Source Projects related to Software Development
 - 🎯 Preparing myself to work on Full Stack Development
-- 💬 Open to learn about Competitive Problem Solving
+- 💬 Open to learn about Competitive Programming
 - 📚 Currently reading some books on Islam
 
 
