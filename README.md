@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## **OPEN SOURCE PROJECTS -**
 - ❤️ I love to do contribution on Open Source Projects.
 - 🔍 Looking to contribute on Open Source Projects related to Software Development.
-- 👨‍💻 Currently I am Collaborate as a team member & active moderator for repository named [Badge 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile).
+- 👨‍💻 Currently I am Collaborate on [Badge 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository as a team member & active moderator.
 - 🐾 Would love to Collaborating on other Open Source Projects.
 
 
