@@ -22,10 +22,13 @@ Here are some ideas to get you started:
 
 - 💎 Currently I'm working on Front End Development
 - 🌱 Currently learing JavaScript, ReactJS & ReduxJS
-- 🔍 Looking to contribute on Open Source Projects related to Software Development
 - 🎯 Preparing myself to work on Full Stack Development
 - 💬 Open to learn about Competitive Programming
 - 📚 Currently reading some books on Islam
+
+## **Open Source Contributions -**
+- Currently I am collaborate as a team member & active moderator for a repository named [Badge 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile).
+- I  would love collaborating on other Open Source Projects.
 
 
 ## **LANGUAGES, FRAMEWORKS, TOOLS & OTHERS -**
