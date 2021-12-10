@@ -62,6 +62,8 @@ Here are some ideas to get you started:
 
 <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
 
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+
 <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
