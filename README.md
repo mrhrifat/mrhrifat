@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - 🔍 Looking to contribute on Open Source Projects related to Software Development.
 - 👨‍💻 Currently I am Collaborate on [Badge 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository as a team member & active moderator.
 - 🐾 Would love to Collaborating on other Open Source Projects.
+- ⭐️ If you like my Open Source Projects [Nominate me to GitHub Stars](https://stars.github.com/nominate)
 
 
 ## **LANGUAGES, FRAMEWORKS, TOOLS & OTHERS -**
@@ -188,7 +189,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 </p>
 
-## **SUPPORT ME -**
+<!-- ## **SUPPORT ME -** -->
 <!-- <p align='center'>
 If you like my Open Source Repositories & Project then, Nomiate me as a GitHub Stars
 <a href='https://stars.github.com/nominate/'>
@@ -196,8 +197,8 @@ If you like my Open Source Repositories & Project then, Nomiate me as a GitHub S
 <img src='https://img.shields.io/badge/Nominate%20Stars-181717.svg?style=for-the-badge&logo=github&logoColor=white'/>
 </a>
 </p> -->
-<p align='center'>
+<!-- <p align='center'>
     <a href='https://stars.github.com/nominate/'>
         <img height='30' src='https://img.shields.io/badge/Nominate%20As%20GitHub%20Stars-181717.svg?&style=for-the-badge&logo=github&logoColor=white'/>
     </a>
-</p>
+</p> -->
