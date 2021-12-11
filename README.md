@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 📚 Currently reading some books on Islam
 
 
-## **OPEN SOURCE PROJECTS -**
+## **OPEN SOURCE CONTRIBUTION -**
 - ❤️ I love to do contribution on Open Source Projects.
 - 🔍 Looking to contribute on Open Source Projects related to Software Development.
 - 👨‍💻 Currently I am Collaborate on [Badge 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository as a team member & active moderator.
