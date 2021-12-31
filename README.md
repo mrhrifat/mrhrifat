@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 🤔 ⚡ 📈 🔖
 -->
 
-- 💎 Currently I'm working on Front End Development
-- 🌱 Currently learing JavaScript, ReactJS & ReduxJS
-- 🎯 Preparing myself to work on Full Stack Development
-- 💬 Open to learn about Competitive Programming
-- 📚 Currently reading some books on Islam
+- 💎 Currently I'm working on Front End Development.
+- 🌱 Currently learing JavaScript, ReactJS & ReduxJS.
+- 🎯 Preparing myself to work on Full Stack Development.
+- 💬 Open to learn about Competitive Programming.
+- 📚 Currently reading some books on Islam.
 
 
 ## **OPEN SOURCE CONTRIBUTION -**
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🔍 Looking to contribute on Open Source Projects related to Software Development.
 - 👨‍💻 Currently I am Collaborate on [Badge 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository as a team member & active moderator.
 - 🐾 Would love to Collaborating on other Open Source Projects.
-- ⭐️ If you like my Open Source Projects [Nominate me to GitHub Stars](https://stars.github.com/nominate)
+- ⭐️ If you like my Open Source Projects [Nominate me to GitHub Stars](https://stars.github.com/nominate).
 
 
 ## **LANGUAGES, FRAMEWORKS, TOOLS & OTHERS -**
