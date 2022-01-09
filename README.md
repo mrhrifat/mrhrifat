@@ -100,3 +100,93 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
  -->
+
+## **CODING STATS**
+
+<p align = "center">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true"> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=mrhrifat&show_icons=true&count_private=true&include_all_commits=true&theme=gotham&line_height=27&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhrifat&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true">
+</p>
+
+
+## **STREAK STATS**
+
+<p align = "center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat&theme=gotham">
+    <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrhrifat"> -->
+</p>
+
+## **FEATURED PROJECTS**
+
+<p align="center">
+    <a href="https://github.com/mrhrifat/spur-quote">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=spur-quote&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html"/>
+    </a>
+    <a href="https://github.com/mrhrifat/jokes-zone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=jokes-zone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
+    </a>
+</p>
+
+
+## **REACH ME**
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/mrhrifat/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:mrhrifat383759@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <!-- <a href="https://www.facebook.com/" target="_blank">
+        <img src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
+    </a> -->
+</p>
+
+## **MOREOVER**
+
+<p align="center">
+    <a href="https://github.com/mrhrifat?tab=repositories">
+        <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
+    </a>
+    <a href="https://github.com/mrhrifat/index/blob/main/Contributions.md">
+        <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Contributions-2962FF?style=for-the-badge&logoColor=white&logo=fork"/>
+    </a>
+</p>
+
+## **PROFILE VISITORS**
+<p align="center">
+    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&logo=Github&style=for-the-badge&color=55acb7">
+</p>
+
+<!-- ## **PROFILE VISITORS -**
+
+<p align="center"> -->
+
+<!-- <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white"/>
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=mrhrifat/"> -->
+<!-- 
+![https://img.shields.io/badge/Profile Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white](https://visitor-badge.glitch.me/badge?page_id=mrhrifat)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=mrhrifat) -->
+<!-- 
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&color=55acb7&style=for-the-badge&logo=Github) -->
+
+<!-- <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&color=55acb7&style=for-the-badge&logo=Github"> -->
+
+<!-- </p> -->
+
+<!-- ## **SUPPORT ME -** -->
+<!-- <p align='center'>
+If you like my Open Source Repositories & Project then, Nominate me as a GitHub Stars
+<a href='https://stars.github.com/nominate/'>
+<br>
+<img src='https://img.shields.io/badge/Nominate%20Stars-181717.svg?style=for-the-badge&logo=github&logoColor=white'/>
+</a>
+</p> -->
+<!-- <p align='center'>
+    <a href='https://stars.github.com/nominate/'>
+        <img height='30' src='https://img.shields.io/badge/Nominate%20As%20GitHub%20Stars-181717.svg?&style=for-the-badge&logo=github&logoColor=white'/>
+    </a>
+</p> -->
