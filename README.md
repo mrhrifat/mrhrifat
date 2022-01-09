@@ -169,10 +169,22 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 </p>
 
-
-## **PROFILE VISITORS -**
+## **OTHERS -**
 
 <p align="center">
+    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&logo=Github&style=for-the-badge&color=55acb7">
+    <a href="https://github.com/mrhrifat/index/blob/main/Contributions.md">
+        <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Contributions-2962FF?style=for-the-badge&logoColor=white&logo=fork"/>
+    </a>
+    <a href="https://github.com/mrhrifat?tab=repositories">
+        <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
+    </a>
+</p>
+
+
+<!-- ## **PROFILE VISITORS -**
+
+<p align="center"> -->
 
 <!-- <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white"/>
 
@@ -184,9 +196,9 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 <!-- 
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&color=55acb7&style=for-the-badge&logo=Github) -->
 
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&color=55acb7&style=for-the-badge&logo=Github">
+<!-- <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&color=55acb7&style=for-the-badge&logo=Github"> -->
 
-</p>
+<!-- </p> -->
 
 <!-- ## **SUPPORT ME -** -->
 <!-- <p align='center'>
