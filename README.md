@@ -161,9 +161,8 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 ## SUPPORT
 
-If you appreciate what I do and wish to support my work, you can consider
-buying me a coffee ☕
-**All of your support will go for Donation.**
+- If you appreciate what I do and wish to support my work, you can consider buying me a coffee ☕
+- All of your support will go for Donation.
 
 <div align='center'>
 
