@@ -161,7 +161,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 ## SUPPORT
 
-- If you appreciate what I do and wish to support my work, you can consider by 
+- 👍🏻 If you appreciate what I do and wish to support my work, you can consider by 
     - Buy Me A Coffee ☕️
     - Support To Buy Ko-fi 🍵
     - Become a Patreon 🫖
