@@ -161,12 +161,15 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 ## SUPPORT
 
-- If you appreciate what I do and wish to support my work, you can consider buying me a coffee ☕
-- All of your support will go for Donation.
+- If you appreciate what I do and wish to support my work, you can consider by 
+    - Buy Me A Coffee ☕️
+    - Support To Buy Ko-fi 🍵
+    - Become a Patreon 🫖
+- 🎉 All of your support will go for Donation.
 
 <div align='center'>
 
-[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me A Coffee")](https://www.buymeacoffee.com/mrhrifat)
+ [![](https://img.shields.io/badge/Ko_fi-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white "Support To Buy Ko-fi")](https://ko-fi.com/mrhrifat)   
 
 </div>
 
