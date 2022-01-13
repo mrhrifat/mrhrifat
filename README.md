@@ -149,8 +149,8 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
     <a href="https://github.com/mrhrifat?tab=repositories">
         <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
     </a>
-    <a href="https://github.com/mrhrifat/index/blob/main/Contributions.md">
-        <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Contributions-2962FF?style=for-the-badge&logoColor=white&logo=fork"/>
+    <a href="https://github.com/mrhrifat/index/blob/master/readme/Contributions.md">
+        <img alt="All Repositories" title="All Contributions" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Contributions-2962FF?style=for-the-badge&logoColor=white&logo=fork"/>
     </a>
 </p>
 
