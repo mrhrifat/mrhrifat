@@ -100,7 +100,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
  -->
-##
+
 
 
 ## **CODING STATS**
@@ -111,7 +111,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhrifat&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true">
 </p>
 
-##
+
 
 
 ## **STREAK STATS**
@@ -121,7 +121,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
     <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrhrifat"> -->
 </p>
 
-##
+
 
 
 ## **FEATURED PROJECTS**
@@ -135,7 +135,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
     </a>
 </p>
 
-##
+
 
 
 ## **REACH ME**
@@ -152,7 +152,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
     </a> -->
 </p>
 
-##
+
 
 
 ## **MOREOVER**
@@ -166,7 +166,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
     </a>
 </p>
 
-##
+
 
 
 ## **PROFILE VISITORS**
@@ -174,7 +174,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
     <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&logo=Github&style=for-the-badge&color=55acb7">
 </p>
 
-##
+
 
 
 ## SUPPORT
@@ -192,7 +192,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 </div>
 
-##
+
 
 <!-- <p align='center'>
     <a href="https://www.buymeacoffee.com/mrhrifat" target="_blank">
