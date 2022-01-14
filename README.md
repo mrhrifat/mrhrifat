@@ -147,6 +147,9 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
     <a href="mailto:mrhrifat383759@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
+    <a href='https://github.com/mrhrifat/mrhrifat/discussions' target='_blank'>
+        <img src='https://custom-icon-badges.herokuapp.com/badge/-Discuss-teal?style=for-the-badge&logo=comment-discussion&logoColor=white'/>
+    </a>
     <!-- <a href="https://www.facebook.com/" target="_blank">
         <img src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
     </a> -->
