@@ -107,7 +107,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 <p align = "center">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true"> -->
-    <img src="https://github-readme-stats.vercel.app/api?username=mrhrifat&show_icons=true&count_private=true&include_all_commits=true&theme=gotham&line_height=27&hide_border=true">
+    <img src='https://github-readme-stats.vercel.app/api?username=mrhrifat&show_icons=true&include_all_commits=true&theme=gotham&count_private=true&line_height=27&hide_border=true'/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhrifat&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true">
 </p>
 
