@@ -136,6 +136,15 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 </p>
 
 
+## **DREAM PROJECTS**
+
+<p align="center">
+    <a href="https://github.com/mrhrifat/holy-alquran">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=holy-alquran&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html"/>
+    </a>
+</p>
+
+
 
 
 ## **REACH ME**
