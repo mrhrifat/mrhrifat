@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 ## **OPEN SOURCE CONTRIBUTION**
-- ❤️ I love to do [Contribution](https://github.com/mrhrifat#moreover) on Open Source Projects.
+- ❤️ I love to do Contribution on Open Source Projects.
 - 🔍 Looking to Contribute on Open Source Projects related to Software Development.
 - 👨‍💻 Currently I am Collaborate on [Badge 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository.
 - 🐾 Would love to Collaborating on other Open Source Projects.
