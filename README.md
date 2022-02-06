@@ -206,6 +206,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 </div>
 
 - 🎉 All of your support will go for Donation.
+- ⭐️ Starring & Sharing my Open Source Project is also appreciated.
 
 
 
