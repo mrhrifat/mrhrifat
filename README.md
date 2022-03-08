@@ -100,19 +100,7 @@
 
 
 
-## **MOREOVER**
 
-<p align="center">
-    <a href="https://github.com/mrhrifat?tab=repositories">
-        <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-F22F46?style=for-the-badge&logoColor=white&logo=repo"/>
-    </a>
-    <a href="https://github.com/mrhrifat/index/blob/master/readme/Contributions.md#-my-contributions">
-        <img alt="All Repositories" title="All Contributions" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Contributions-2962FF?style=for-the-badge&logoColor=white&logo=fork"/>
-    </a>
-    <a href="https://github.com/mrhrifat/index/blob/master/readme/Collaboration.md#-my-collaboration">
-        <img alt="My Collaboration" title="My Collaboration" src="https://custom-icon-badges.herokuapp.com/badge/-My%20Collaboration-009639?style=for-the-badge&logoColor=white&logo=zap"/>
-    </a>
-</p>
 
 
 
