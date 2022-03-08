@@ -83,21 +83,6 @@
 
 
 
-## **REACH ME**
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/mrhrifat/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:mrhrifat383759@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href='https://github.com/mrhrifat/mrhrifat/discussions' target='_blank'>
-        <img src='https://custom-icon-badges.herokuapp.com/badge/-Discuss-teal?style=for-the-badge&logo=comment-discussion&logoColor=white'/>
-    </a>
-</p>
-
-
 
 
 
