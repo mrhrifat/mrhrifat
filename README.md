@@ -117,10 +117,6 @@
 
 
 
-## **PROFILE VISITORS**
-<p align="center">
-    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&logo=Github&style=for-the-badge&color=55acb7">
-</p>
 
 
 
