@@ -11,7 +11,7 @@
 
 
 - 💎 Currently I'm working on Front End Development.
-- 🌱 Learning ES6, Advance ReactJS & ReduxJS.
+- 🌱 Learning JavaScript, ReactJS & ReduxJS.
 - 🎯 Willing to work on Full Stack Development.
 
 ## **Open Source Contribution**
