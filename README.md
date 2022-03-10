@@ -12,7 +12,7 @@
 
 - 💎 Currently I'm working on Front End Development.
 - 🌱 Currently learning JavaScript, ReactJS & ReduxJS.
-- 🎯 Preparing myself to work on Full Stack Development.
+- 🎯 Wiiling to work on Full Stack Development.
 - 💬 Open to learn about Competitive Programming.
 - 📚 Currently reading some books on Islam.
 
