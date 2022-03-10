@@ -16,6 +16,12 @@
     <a href="https://github.com/mrhrifat?tab=followers">
         <img alt="followers" title="Follow Me on GitHub" src="https://custom-icon-badges.herokuapp.com/github/followers/mrhrifat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
+    <a href="https://www.linkedin.com/in/mrhrifat/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:mrhrifat383759@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
 </p>
 
 ## **OPEN SOURCE CONTRIBUTION**
@@ -32,9 +38,7 @@
     </a>
 </p>
 
-
 ## **FEATURED PROJECTS**
-
 <p align="center">
     <a href="https://github.com/mrhrifat/holy-alquran">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=holy-alquran&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1014&hide_border=true&hide=html"/>
