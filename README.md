@@ -5,8 +5,8 @@
 ### Assalamu Alaikum ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="Assalamu Alaikum">
 
 <p align="justify">
-    I'm Rifat. To be a skilled and significant Software Engineer, for now I am tempted to work with Web Technology. I love to do coding for make people's daily lives easier.<br>
-I have been learning programming on my own since I got acquainted with programming.
+    For being a skilled & significant Software Engineer, I'm enthusiastic Programmer, who is working on Front End Development nearly 1 year. I'm passionate about to code for make people's daily life easier.
+    I have been learning programming on itself since I got acquainted with programming.
 </p>
 
 - 💎 Currently I'm working on Front End Development.
