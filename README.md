@@ -1,8 +1,4 @@
-<!-- <p align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300">
-</p>
--->
-
+git
 <p align="center">
     <img alt="GIF" src="https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true" width="600" height="300" />
 </p>
@@ -14,12 +10,6 @@
     I have been learning programming on my own since I got acquainted with programming.
 </p>
 
-<!--
-**mrhrifat/mrhrifat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-🤔 ⚡ 📈 🔖
--->
 
 - 💎 Currently I'm working on Front End Development.
 - 🌱 Currently learning JavaScript, ReactJS & ReduxJS.
@@ -61,51 +51,10 @@ Here are some ideas to get you started:
 </p>
 
 
-<!-- 
-For later--
-
-https://github.com/Ileriayo/markdown-badges
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-<img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-
-<img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
-
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-
-<img src="https://img.shields.io/badge/mysql-%2342759c.svg?&style=for-the-badge&logo=mysql&logoColor=db8a35"/>
-
-<img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" /> 
-
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
- -->
-
-
 
 ## **CODING STATS**
 
 <p align = "center">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true"> -->
     <img src='https://github-readme-stats.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhrifat&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true">
 </p>
@@ -117,7 +66,6 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 <p align = "center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat&theme=gotham&hide_border=true">
-    <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrhrifat"> -->
 </p>
 
 
@@ -135,17 +83,6 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 </p>
 
 
-<!-- ## **DREAM PROJECTS**
-
-<p align="center">
-    <a href="https://github.com/mrhrifat/holy-alquran">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=holy-alquran&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
-    </a>
-</p> -->
-
-
-
-
 
 ## **REACH ME**
 
@@ -159,9 +96,6 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
     <a href='https://github.com/mrhrifat/mrhrifat/discussions' target='_blank'>
         <img src='https://custom-icon-badges.herokuapp.com/badge/-Discuss-teal?style=for-the-badge&logo=comment-discussion&logoColor=white'/>
     </a>
-    <!-- <a href="https://www.facebook.com/" target="_blank">
-        <img src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
-    </a> -->
 </p>
 
 
@@ -209,44 +143,3 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 - ⭐️ Starring & Sharing my Open Source Project is also appreciated.
 
 
-
-
-<!-- <p align='center'>
-    <a href="https://www.buymeacoffee.com/mrhrifat" target="_blank">
-         <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-    </a>
-</p> -->
-
-
-
-<!-- ## **PROFILE VISITORS -**
-
-<p align="center"> -->
-
-<!-- <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white"/>
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=mrhrifat/"> -->
-<!-- 
-![https://img.shields.io/badge/Profile Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white](https://visitor-badge.glitch.me/badge?page_id=mrhrifat)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=mrhrifat) -->
-<!-- 
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&color=55acb7&style=for-the-badge&logo=Github) -->
-
-<!-- <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&color=55acb7&style=for-the-badge&logo=Github"> -->
-
-<!-- </p> -->
-
-<!-- ## **SUPPORT ME -** -->
-<!-- <p align='center'>
-If you like my Open Source Repositories & Project then, Nominate me as a GitHub Stars
-<a href='https://stars.github.com/nominate/'>
-<br>
-<img src='https://img.shields.io/badge/Nominate%20Stars-181717.svg?style=for-the-badge&logo=github&logoColor=white'/>
-</a>
-</p> -->
-<!-- <p align='center'>
-    <a href='https://stars.github.com/nominate/'>
-        <img height='30' src='https://img.shields.io/badge/Nominate%20As%20GitHub%20Stars-181717.svg?&style=for-the-badge&logo=github&logoColor=white'/>
-    </a>
-</p> -->
