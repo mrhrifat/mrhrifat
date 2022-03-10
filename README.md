@@ -33,6 +33,17 @@
 </p>
 
 
+## **FEATURED PROJECTS**
+
+<p align="center">
+    <a href="https://github.com/mrhrifat/holy-alquran">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=holy-alquran&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&hide=html"/>
+    </a>
+    <a href="https://github.com/mrhrifat/web-badge">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=web-badge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
+    </a>
+</p>
+
 ## **CODING STATS**
 <p align = "center">
     <img src='https://github-readme-stats.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
