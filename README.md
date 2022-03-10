@@ -9,16 +9,8 @@
     I have been learning programming on itself since I got acquainted with programming.
 </p>
 
-- 💎 Currently I'm working on Front End Development.
-- 🌱 Learning JavaScript, ReactJS & ReduxJS.
-- 🎯 Willing to work on Full Stack Development.
-- 📚 Currently reading some books on Software Development.
 
-## **OPEN SOURCE CONTRIBUTION**
-- ❤️ I love to do Contribution on Open Source Projects.
-- 👨‍💻 Currently Collaborate on [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository.
-- 🐾 Would like to Contribution & Collaboration on other Open Source Projects.
-- ⭐️ Like my Open Source Projects [Nominate me to GitHub Stars](https://stars.github.com/nominate).
+
 
 
 ## **Coding & Streak Stats**
