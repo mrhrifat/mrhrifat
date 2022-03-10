@@ -8,7 +8,12 @@
     For being a skilled & significant Software Engineer, I'm enthusiastic Programmer, who is working on Front End Development nearly 1 year. I'm passionate about to code for make people's daily life easier.
     I have been learning programming on itself since I got acquainted with programming.
 </p>
-
+<p align="center">
+    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&logo=Github&style=for-the-badge&color=16a085">
+    <a href="https://github.com/mrhrifat?tab=followers">
+        <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.herokuapp.com/github/followers/mrhrifat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+</p>
 
 ## **OPEN SOURCE CONTRIBUTION**
 - ❤️ I love to do Contribution on Open Source Projects.
