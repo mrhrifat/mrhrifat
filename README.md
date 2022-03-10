@@ -6,24 +6,17 @@
 
 <p align="justify">
     I'm Rifat. To be a skilled and significant Software Engineer, for now I am tempted to work with Web Technology. I love to do coding for make people's daily lives easier.<br>
-    I have been learning programming on my own since I got acquainted with programming.
+I have been learning programming on my own since I got acquainted with programming.
 </p>
-
 
 - 💎 Currently I'm working on Front End Development.
 - 🌱 Learning JavaScript, ReactJS & ReduxJS.
 - 🎯 Willing to work on Full Stack Development.
 
-## **Open Source Contribution**
+## **OPEN SOURCE CONTRIBUTION**
 - ❤️ I love to do Contribution on Open Source Projects.
-- 🔍 Looking to Contribute on Open Source Projects related to Software Development.
-- 👨‍💻 Currently I am Collaborate on [Badge 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository.
-- 🐾 Would love to Collaborating on other Open Source Projects.
-- ⭐️ If you like my Open Source Projects [Nominate me to GitHub Stars](https://stars.github.com/nominate).
-
-
-
-
+- 👨‍💻 Currently Collaborate on [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository.
+- ⭐️ Like my Open Source Projects [Nominate me to GitHub Stars](https://stars.github.com/nominate).
 
 
 ## **Coding & Streak Stats**
