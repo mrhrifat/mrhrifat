@@ -17,7 +17,7 @@
 - 📚 Currently reading some books on Islam.
 
 
-## **OPEN SOURCE CONTRIBUTION**
+### Open Source Contribution
 - ❤️ I love to do Contribution on Open Source Projects.
 - 🔍 Looking to Contribute on Open Source Projects related to Software Development.
 - 👨‍💻 Currently I am Collaborate on [Badge 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository.
@@ -29,21 +29,18 @@
 
 
 
-## **CODING STATS**
+### Coding & Streak Stats
 
 <p align = "center">
     <img src='https://github-readme-stats.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhrifat&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true">
 </p>
 
-
-
-
-## **STREAK STATS**
-
 <p align = "center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat&theme=gotham&hide_border=true">
 </p>
+
+
 
 
 
