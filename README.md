@@ -6,7 +6,7 @@
 
 <p align='justify'>
     For being a skilled & significant Software Engineer,  for now I'm tempted to work with Web Technology. I'm an consistent enthusiastic Programmer, who is working on Front End Development nearly 1 year. My ambition to code for make people's daily life more easier.<br>
-    Also I'm passionate about Competitive Programming & problem solving problem in Online Judge like HackerRank. I have been learning programming on itself since I got acquainted with programming.
+    Also I'm passionate about Competitive Programming & Problem solving in Online Judge like HackerRank. I have been learning programming on itself since I got acquainted with programming.
 </p>
 <p align='center'>
     <a href='https://github.com/mrhrifat?tab=repositories&sort=stargazers'>
