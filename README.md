@@ -5,8 +5,8 @@
 ### Assalamu Alaikum ! <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif' width='20px' alt='Assalamu Alaikum'>
 
 <p align='justify'>
-    For being a skilled & significant Software Engineer, I'm an enthusiastic Programmer, who is working on Front End Development nearly 1 year. I'm passionate about to code for make people's daily life easier.
-    I have been learning programming on itself since I got acquainted with programming.
+    For being a skilled & significant Software Engineer,  for now I'm tempted to work with Web Technology. I'm an consistent enthusiastic Programmer, who is working on Front End Development nearly 1 year. My ambition to code for make people's daily life more easier.<br>
+    Also I'm passionate about Competitive Programming & problem solving problem in Online Judge like HackerRank. I have been learning programming on itself since I got acquainted with programming.
 </p>
 <p align='center'>
     <a href='https://github.com/mrhrifat?tab=repositories&sort=stargazers'>
