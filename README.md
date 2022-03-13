@@ -51,10 +51,10 @@
     </a>
 </p>
 <p align='center'>
-    <a href='https://github.com/mrhrifat/index/blob/master/readme/Collaboration.md#-my-collaboration'>
+    <a href='https://github.com/mrhrifat/index/blob/master/readme/Construction.md#-404-not-found'>
         <img alt='Featured Site' title='Featured Site'  src='https://custom-icon-badges.herokuapp.com/badge/-Featured%20Site-D14836?style=for-the-badge&logoColor=white&logo=globe'/>
     </a>
-    <a href='https://github.com/mrhrifat/index/blob/master/readme/Contributions.md#-my-contributions'>
+    <a href='https://github.com/mrhrifat/index/blob/master/readme/Construction.md#-404-not-found'>
         <img alt=''Others Projects' title='Others Projects' src='https://custom-icon-badges.herokuapp.com/badge/-Others%20Projects-16a085?style=for-the-badge&logoColor=white&logo=project'/>
     </a>
 </p>
