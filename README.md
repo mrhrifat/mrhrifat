@@ -52,10 +52,10 @@
 </p>
 <p align='center'>
     <a href='https://github.com/mrhrifat/index/blob/master/readme/Collaboration.md#-my-collaboration'>
-        <img alt='Featured Site' title='Featured Site'  src='https://custom-icon-badges.herokuapp.com/badge/-Featured%20Site-D14836?style=for-the-badge&logoColor=white&logo=zap'/>
+        <img alt='Featured Site' title='Featured Site'  src='https://custom-icon-badges.herokuapp.com/badge/-Featured%20Site-D14836?style=for-the-badge&logoColor=white&logo=globe'/>
     </a>
     <a href='https://github.com/mrhrifat/index/blob/master/readme/Contributions.md#-my-contributions'>
-        <img alt=''Others Projects' title='Others Projects' src='https://custom-icon-badges.herokuapp.com/badge/-Others%20Projects-16a085?style=for-the-badge&logoColor=white&logo=fork'/>
+        <img alt=''Others Projects' title='Others Projects' src='https://custom-icon-badges.herokuapp.com/badge/-Others%20Projects-16a085?style=for-the-badge&logoColor=white&logo=project'/>
     </a>
 </p>
 
