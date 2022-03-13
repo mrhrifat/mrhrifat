@@ -2,7 +2,7 @@
     <img alt='GIF' src='https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true' width='600' height='300' />
 </p>
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributior;Learn+%26+Code+for+Everyone'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&vCenter=true&height=25&lines=Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributior;Learn+%26+Code+for+Everyone'/>
 </div>
 
 ### Assalamu Alaikum ! <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif' width='20px' alt='Assalamu Alaikum'>
