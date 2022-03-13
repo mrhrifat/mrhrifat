@@ -2,7 +2,7 @@
     <img alt='GIF' src='https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true' width='600' height='300' />
 </p>
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&vCenter=true&height=25&lines=Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributior;Learn+%26+Code+for+Everyone'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributior;Learn+%26+Code+for+Everyone'/>
 </div>
 
 ### Assalamu Alaikum ! <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif' width='20px' alt='Assalamu Alaikum'>
@@ -48,6 +48,14 @@
     </a>
     <a href='https://github.com/mrhrifat/web-badge'>
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=web-badge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1014&hide_border=true'/>
+    </a>
+</p>
+<p align='center'>
+    <a href='https://github.com/mrhrifat/index/blob/master/readme/Collaboration.md#-my-collaboration'>
+        <img alt='Featured Site' title='Featured Site'  src='https://custom-icon-badges.herokuapp.com/badge/-Featured%20Site-D14836?style=for-the-badge&logoColor=white&logo=zap'/>
+    </a>
+    <a href='https://github.com/mrhrifat/index/blob/master/readme/Contributions.md#-my-contributions'>
+        <img alt=''Others Projects' title='Others Projects' src='https://custom-icon-badges.herokuapp.com/badge/-Others%20Projects-16a085?style=for-the-badge&logoColor=white&logo=fork'/>
     </a>
 </p>
 
