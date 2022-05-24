@@ -18,6 +18,7 @@
     <img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mrhrifat&logo=Github&style=for-the-badge&color=16a085'>
     <a href='https://github.com/mrhrifat?tab=followers'>
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/mrhrifat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
+        <br>
     </a>
     <a href='https://www.linkedin.com/in/mrhrifat' target='_blank'>
         <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
