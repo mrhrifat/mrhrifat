@@ -5,7 +5,8 @@
 <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Learn+%26+Code+for+Everyone'/>
 </div>
 
-### Assalamu Alaikum ! <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif' width='20px' alt='Assalamu Alaikum'>
+### Assalamu Alaikum ! 
+<!-- <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif' width='20px' alt='Assalamu Alaikum'> -->
 
 <p align='justify'>
     I'm an enthusiastic programmer working on Front End Development for more than 1 year. I'm passionate about coding to make people's daily life more easier. I have been learning new things since I got acquainted with programming.<br>
