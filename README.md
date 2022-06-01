@@ -9,7 +9,7 @@
 
 <p align='justify'>
     I'm an enthusiastic programmer working on Front End Development for more than 1 year. I'm passionate about coding to make people's daily life more easier. I have been learning new things since I got acquainted with programming.<br>
-    Writing readable & reusable code are my first priorities. I also try to do competitive programming and solve problems on online judges like Hacker Rank.
+    Writing readable & reusable code are my first priorities. I also try to do competitive programming and solve problems on online judges like Leetcode & Hackerrank.
 </p>
 <p align='center'>
     <a href='https://github.com/mrhrifat?tab=repositories&sort=stargazers'>
