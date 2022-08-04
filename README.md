@@ -33,7 +33,7 @@
 - ❤️ I love to do Contribution on Open Source Projects.
 - 👨‍💻 Currently I'm Collaborate on [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository.
 - 🐾 Would like to do Contribution & Collaboration on other Open Source Projects.
-- ⭐️ If you like my Open Source Projects [Nominate me to GitHub Stars](https://stars.github.com/nominate).
+- ⭐️ If you like my Open Source Projects [Nominate Me to GitHub Stars](https://stars.github.com/nominate).
 <p align='center'>
     <a href='https://github.com/mrhrifat/index/blob/master/readme/Contributions.md#-my-contributions'>
         <img alt='All Repositories' title='All Contributions' src='https://custom-icon-badges.herokuapp.com/badge/-All%20Contributions-009688?style=for-the-badge&logoColor=white&logo=fork'/>
@@ -51,6 +51,9 @@
     <a href='https://github.com/mrhrifat/web-badge'>
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=web-badge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1014&hide_border=true'/>
     </a>
+</p>
+<p align='center'>
+    <p>Al Quran:Version 2 is Upcoming</p>
 </p>
 <p align='center'>
     <a href='https://github.com/mrhrifat/index/blob/master/readme/Construction.md#-404-not-found'>
