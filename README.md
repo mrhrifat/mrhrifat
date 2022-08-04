@@ -53,9 +53,6 @@
     </a>
 </p>
 <p align='center'>
-    <p>Al Quran:Version 2 is Upcoming</p>
-</p>
-<p align='center'>
     <a href='https://github.com/mrhrifat/index/blob/master/readme/Construction.md#-404-not-found'>
         <img alt='Featured Site' title='Featured Site'  src='https://custom-icon-badges.herokuapp.com/badge/-Featured%20Site-D14836?style=for-the-badge&logoColor=white&logo=globe'/>
     </a>
