@@ -29,20 +29,7 @@
     </a>
 </p>
 
-## **OPEN SOURCE CONTRIBUTION**
 
-- ❤️ I love to do Contribution on Open Source Projects.
-- 👨‍💻 Currently I'm Collaborate on [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository.
-- 🐾 Would like to do Contribution & Collaboration on other Open Source Projects.
-- ⭐️ If you like my Open Source Projects [Nominate Me to GitHub Stars](https://stars.github.com/nominate).
-<p align='center'>
-    <a href='https://github.com/mrhrifat/index/blob/master/readme/Contributions.md#-my-contributions'>
-        <img alt='All Repositories' title='All Contributions' src='https://custom-icon-badges.herokuapp.com/badge/-All%20Contributions-009688?style=for-the-badge&logoColor=white&logo=fork'/>
-    </a>
-    <a href='https://github.com/mrhrifat/index/blob/master/readme/Collaboration.md#-my-collaboration'>
-        <img alt='My Collaboration' title='My Collaboration' src='https://custom-icon-badges.herokuapp.com/badge/-My%20Collaboration-009639?style=for-the-badge&logoColor=white&logo=zap'/>
-    </a>
-</p>
 
 ## **FEATURED PROJECTS**
 
