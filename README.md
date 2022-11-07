@@ -5,7 +5,8 @@
 <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
 </div>
 
-### Assalamu Alaikum ! 
+### Assalamu Alaikum !
+
 <!-- <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif' width='20px' alt='Assalamu Alaikum'> -->
 
 <p align='justify'>
@@ -30,6 +31,7 @@
 </p>
 
 ## **OPEN SOURCE CONTRIBUTION**
+
 - ❤️ I love to do Contribution on Open Source Projects.
 - 👨‍💻 Currently I'm Collaborate on [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository.
 - 🐾 Would like to do Contribution & Collaboration on other Open Source Projects.
@@ -44,6 +46,7 @@
 </p>
 
 ## **FEATURED PROJECTS**
+
 <p align='center'>
     <a href='https://github.com/mrhrifat/holy-alquran'>
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=holy-alquran&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1014&hide_border=true&hide=html'/>
@@ -52,7 +55,7 @@
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=web-badge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1014&hide_border=true'/>
     </a>
 </p>
-<p align='justify'>Currently I'm working on building version 2.0 of these project. InshaAllah as soon as possible I'll publish them.</p>
+<p align='justify'>**Note:** Currently I'm working on building version 2.0 of these project. InshaAllah as soon as possible I'll publish them.</p>
 <p align='center'>
     <a href='https://github.com/mrhrifat/index/blob/master/readme/Construction.md#-404-not-found'>
         <img alt='Featured Site' title='Featured Site'  src='https://custom-icon-badges.herokuapp.com/badge/-Featured%20Site-D14836?style=for-the-badge&logoColor=white&logo=globe'/>
@@ -63,21 +66,24 @@
 </p>
 
 ## **CODING STATS**
+
 <p align = 'center'>
     <img src='https://github-readme-stats.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mrhrifat&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/>
 </p>
 
 ## **STREAK STATS**
+
 <p align = 'center'>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat&theme=gotham&hide_border=true'>
 </p>
 
 ## **SUPPORT**
-- 👍🏻 If you appreciate what I do and wish to support my work, you can consider by  
+
+- 👍🏻 If you appreciate what I do and wish to support my work, you can consider by
 <div align='center'>
 
- [![](https://img.shields.io/badge/Ko_fi-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white 'Support To Buy Ko-fi')](https://ko-fi.com/mrhrifat)  [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black 'Buy Me A Coffee')](https://buymeacoffee.com/mrhrifat)  [![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=Patreon&logoColor=white 'Become a Patreon')](https://patreon.com/mrhrifat)
+[![](https://img.shields.io/badge/Ko_fi-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white "Support To Buy Ko-fi")](https://ko-fi.com/mrhrifat) [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me A Coffee")](https://buymeacoffee.com/mrhrifat) [![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=Patreon&logoColor=white "Become a Patreon")](https://patreon.com/mrhrifat)
 
 </div>
 
