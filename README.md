@@ -55,10 +55,9 @@
         <img src='https://github-readme-stats.vercel.app/api/pin/?username=mrhrifat&repo=web-badge&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0C1014&hide_border=true'/>
     </a>
 </p>
-**Note:** Currently I'm working on building version 2.0 of these project. InshaAllah as soon as possible I'll publish them.
 <p align='center'>
     <a href='https://github.com/mrhrifat/index/blob/master/readme/Construction.md#-404-not-found'>
-        <img alt='Featured Site' title='Featured Site'  src='https://custom-icon-badges.herokuapp.com/badge/-Featured%20Site-D14836?style=for-the-badge&logoColor=white&logo=globe'/>
+        <img alt='Featured Site' titlWe='Featured Site'  src='https://custom-icon-badges.herokuapp.com/badge/-Featured%20Site-D14836?style=for-the-badge&logoColor=white&logo=globe'/>
     </a>
     <a href='https://github.com/mrhrifat/index/blob/master/readme/Construction.md#-404-not-found'>
         <img alt=''Others Projects' title='Others Projects' src='https://custom-icon-badges.herokuapp.com/badge/-Others%20Projects-16a085?style=for-the-badge&logoColor=white&logo=project'/>
