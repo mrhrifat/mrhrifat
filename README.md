@@ -8,7 +8,7 @@ I'm an enthusiastic programmer, working on Full Stack Development. I'm passionat
 I love to learning new things since I got acquainted with programming.
 
 - 🌱 Learing ....
-- 🐾 2 Years of Experiences on Front End Development.
+- 🐾 2 Years of Experience on Front End Development.
 - 💻 Writing **Readable** & **Reusable** code are my first priorities.
 - 👨‍💻 Collaborator at [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository.
 - ⭐️ Nominate Me to [GitHub Stars](https://stars.github.com/nominate).
