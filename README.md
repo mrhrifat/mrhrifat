@@ -4,8 +4,7 @@
 
 ### Assalamu Alaikum !
 
-I'm an enthusiastic programmer & passionate about coding to make people's daily life more easier.</br>
-I love to learning new things since I got acquainted with programming.
+I'm an enthusiastic programmer & passionate about coding to make people's daily life more easier. I love to learning new things since I got acquainted with programming.
 
 - 🌱 Learing ....
 - 💻 Writing **Readable** & **Reusable** code are my first priorities.
