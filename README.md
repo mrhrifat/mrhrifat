@@ -1,10 +1,10 @@
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Full+Stack+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
 </div>
 
 ### Assalamu Alaikum !
 
-I'm an enthusiastic programmer, working on Front End Development with 2 years of experience. I'm passionate about coding to make people's daily life more easier.</br>
+I'm an enthusiastic programmer, working on Front End Development with 2 years of experience & 1 month on Back End Development. I'm passionate about coding to make people's daily life more easier.</br>
 I love to learning new things since I got acquainted with programming.
 
 - 🌱 Learing ....
