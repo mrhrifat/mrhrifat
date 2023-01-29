@@ -44,7 +44,7 @@ I love to learning new things since I got acquainted with programming.
 ## CODING STATS
 
 <p align = 'center'>
-    <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=transparent' width='400'/>
+    <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrhrifat&count_private=true&include_all_commits=true&show_icons=true&theme=transparent' width='380'/>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=mrhrifat&theme=transparent' width='400'>
 </p>
 
