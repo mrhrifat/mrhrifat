@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Full+Stack+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
 </div>
 
 ### Assalamu Alaikum !
@@ -7,7 +7,7 @@
 I'm an enthusiastic programmer, working on Front End Development with 2 Years of Experience. I'm passionate about coding to make people's daily life more easier.</br>
 I love to learning new things since I got acquainted with programming.
 
-- 🌱 Learing ....
+- 🌱 Learing ....3
 - 💻 Writing **Readable** & **Reusable** code are my first priorities.
 - 👨‍💻 Collaborator at [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository.
 - ⭐️ Nominate Me to [GitHub Stars](https://stars.github.com/nominate).
