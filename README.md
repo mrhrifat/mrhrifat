@@ -32,6 +32,15 @@ I love to learning new things since I got acquainted with programming.
 ## FEATURED PROJECTS
 
 <p align='center'>
+    <a href='https://github.com/mrhrifat/badge-genius'>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrhrifat&repo=badge-genius&theme=transparent'  width='350'/>
+    </a>
+    <a href='https://github.com/mrhrifat/al-quran'>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrhrifat&repo=al-quran&theme=transparent&hide=html' width='350'/>
+    </a>
+</p>
+
+<p align='center'>
     <a href='https://github.com/mrhrifat/holy-alquran'>
         <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mrhrifat&repo=holy-alquran&theme=transparent&hide=html' width='350'/>
     </a>
