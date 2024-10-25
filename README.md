@@ -11,6 +11,7 @@ I love to learning new things since I got acquainted with programming.
 - 💻 Writing **Readable** & **Reusable** code are my first priorities.
 - 👨‍💻 Collaborator at [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) repository.
 - ⭐️ Nominate Me to [GitHub Stars](https://stars.github.com/nominate).
+- ℘ Know Me <a href="https://mrhrifat.vercel.app" target="_blank">More</a>
 
 <p align='center'>
     <a href='https://github.com/mrhrifat?tab=repositories&sort=stargazers'>
