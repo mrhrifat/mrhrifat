@@ -4,7 +4,7 @@
 
 ### Assalamu Alaikum !
 
-I'm a slave of Almighty Allah (SWT), Ummah of Muhammad (SAW), a Practicing Muslim & an Enthusiastic Programmer. Working on Front End Development with 1.5+ Years of Experience. I'm passionate about coding to make people's daily life more easier.</br>
+I'm a slave of Almighty Allah (SWT), Ummah of Muhammad (SAW), a Practicing Muslim & an Enthusiastic Programmer. Working on Front End Development with 2+ Years of Experience. I'm passionate about coding to make people's daily life more easier.</br>
 I love to learning new things since I got acquainted with programming.
 
 - 🌱 Learing ....3
